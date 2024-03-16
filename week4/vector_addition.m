@@ -1,11 +1,11 @@
 % 1.Vector Addition
-% Input vectors
-vector1_str = input('Enter the first vector separated by commas (e.g., 1,2,3): ', 's');
-vector2_str = input('Enter the second vector separated by commas (e.g., 4,5,6): ', 's');
+% Input two vector's parameters
+vector1_str = input('Enter the first vector: ', 's');
+vector2_str = input('Enter the second vector: ', 's');
 
 % Convert strings to numerical arrays
-vector1 = str2double(vector1_str);
-vector2 = str2double(vector2_str);
+vector1 = str2num(vector1_str);
+vector2 = str2num(vector2_str);
 
 % Check if vectors have the same length
 if length(vector1) ~= length(vector2)
