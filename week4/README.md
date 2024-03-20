@@ -1,11 +1,16 @@
 # Week 4 All Examples
+
 ## Vector Addition
-Write a MATLAB script that takes two vectors of the same length as input and calculates their sum. Display the resulting vector. Ensure that your script handles vectors of different lengths gracefully.
+This MATLAB function takes two vectors of the same length as input and calculates their sum. It checks if the lengths of the input vectors are not the same, displaying an error message. Otherwise, it adds the vectors element-wise and returns the resulting vector.
+
 ## Vector Dot Product
-Implement a MATLAB function to compute the dot product of two given vectors. The function should return a scalar value representing the dot product. Test your function with different pairs of vectors.
+This MATLAB function computes the dot product of two given vectors. It checks the lengths of the input vectors, displaying an error message if they are different. Otherwise, it calculates the dot product by multiplying the elements of the vectors and returns it as a scalar value.
+
 ## Vector Norm Calculation
-Create a MATLAB function that calculates the Euclidean norm (L2 norm) of a given vector. The function should take the vector as input and return its norm. Test your function with various vectors.
+This MATLAB function calculates the Euclidean norm (L2 norm) of a given vector. It takes the vector as input and returns its norm.
+
 ## Vector Cross Product
-Write a MATLAB script to compute the cross product of two 3-dimensional vectors. Ensure that your script handles vectors of appropriate dimensions and display the resulting vector.
+This MATLAB function computes the cross product of two 3-dimensional vectors. It checks if the vectors have appropriate dimensions and displays the resulting vector.
+
 ## Vector Sorting
-Implement a MATLAB function to sort a given vector in ascending order. You can use any sorting algorithm of your choice (e.g., bubble sort, quicksort, etc.). Test your function with different input vectors to ensure correctness and efficiency.
+This MATLAB function sorts a given vector in ascending order using any sorting algorithm chosen. It tests the function with different input vectors to ensure correctness and efficiency.
