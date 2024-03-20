@@ -13,4 +13,4 @@ This MATLAB function calculates the Euclidean norm (L2 norm) of a given vector. 
 This MATLAB function computes the cross product of two 3-dimensional vectors. It checks if the vectors have appropriate dimensions and displays the resulting vector.
 
 ## Vector Sorting
-This MATLAB function sorts a given vector in ascending order using any sorting algorithm chosen. It tests the function with different input vectors to ensure correctness and efficiency.
+This MATLAB function employs the Quick Sort algorithm to arrange a given vector in ascending order. Quick Sort operates by selecting a pivot element from the vector, partitioning the vector into sub-vectors where elements smaller than the pivot are placed on the left and elements greater than the pivot are placed on the right, and recursively sorting these sub-vectors. Through testing with various input vectors, the function verifies both its correctness and efficiency in sorting operations.
