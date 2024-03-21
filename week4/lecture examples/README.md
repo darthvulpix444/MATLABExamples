@@ -1,4 +1,4 @@
-# Week 4 All Lecture Examples
+# Week 4 Lecture Examples
 
 ## Vector Addition
 This MATLAB function takes two vectors of the same length as input and calculates their sum. It checks if the lengths of the input vectors are not the same, displaying an error message. Otherwise, it adds the vectors element-wise and returns the resulting vector.
