@@ -6,4 +6,5 @@ This MATLAB code generates a discrete unit sample function with using the stem p
 ## Element-Wise Multiplying
 This MATLAB code has two discrete signals x = [0, 2, 3, 4, 0, 0, 0, 0] and y = [0, 0, 3, 0, 0, 1, 1, 0]. Then calculates resulting signals when multiplying them element-wise and when adding them together. Finally code will plot these resulting signals against the discrete time variable n = [0, 1, 2, 3, 4, 5, 6, 7].
 
-
+## Discrete-Time Unit Step Function
+This MATLAB code generates and plots a discrete-time unit step function x(n) defined over the range −20≤n≤20. The function should be 1 for n≥0 and 0 otherwise. Also code has for loop and conditionals for this implementation.
