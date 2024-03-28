@@ -13,3 +13,6 @@ This MATLAB code generates and plots a discrete-time unit step function x(n) def
 Write MATLAB code to generate a stem plot for the discrete signal ( y[n] ), where ( n = -5:15 ) and ( y[n] ) is defined as:
 [ y[n] = \begin{cases} 2 & \text{if } n = 3 \ 1 & \text{if } n = 0, 5, 10 \ 0 & \text{otherwise} \end{cases} ]
 Ensure the plot includes appropriate title, x-axis label, y-axis label, grid lines, and customized appearance for the stem markers.
+
+## Example 5
+![Q5](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/8552728d-dcdb-4c67-b8f3-d020062f536b)
