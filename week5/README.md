@@ -10,9 +10,9 @@ This MATLAB code has two discrete signals x = [0, 2, 3, 4, 0, 0, 0, 0] and y = [
 This MATLAB code generates and plots a discrete-time unit step function x(n) defined over the range −20≤n≤20. The function should be 1 for n≥0 and 0 otherwise. Also code has for loop and conditionals for this implementation.
 
 ## Example 4
-Write MATLAB code to generate a stem plot for the discrete signal
-![Adsız](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/d75272f0-6c3d-4ce3-a6a5-edc5f528ce7d)
 
+![Adsız](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/d75272f0-6c3d-4ce3-a6a5-edc5f528ce7d)
+Write MATLAB code to generate a stem plot for the discrete signal
 
 
 Ensure the plot includes appropriate title, x-axis label, y-axis label, grid lines, and customized appearance for the stem markers.
