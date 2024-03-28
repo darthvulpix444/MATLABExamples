@@ -11,8 +11,8 @@ This MATLAB code generates and plots a discrete-time unit step function x(n) def
 
 ## Example 4
 
-![Adsız](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/d75272f0-6c3d-4ce3-a6a5-edc5f528ce7d)
 Write MATLAB code to generate a stem plot for the discrete signal
+![Adsız](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/efedbd86-9eae-4044-8f82-13b622f4c2d6)
 
 
 Ensure the plot includes appropriate title, x-axis label, y-axis label, grid lines, and customized appearance for the stem markers.
