@@ -8,3 +8,5 @@
 ## Example 3
 ![week5_example3_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/fc805e68-774e-4777-acac-3a3890c59f1f)
 
+## Example 4
+![example4_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/107ac953-f479-4f1c-9806-169ed13ce78f)
