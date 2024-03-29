@@ -1,5 +1,7 @@
 # Week 5 Lecture Examples 
 ## Discrete Unit Sample Function
+This MATLAB code generates a discrete unit sample function with using the stem plot. Range of values starts from -10 to 10 for the independent variable. Stem plot will display filled markers.
+### Output
 ![example1_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/a5c6fc39-4101-44b1-a0b8-22ccbc93a00e)
 
 ## Element-Wise Multiplying
