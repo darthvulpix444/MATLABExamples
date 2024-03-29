@@ -14,7 +14,7 @@ This MATLAB code generates and plots a discrete-time unit step function x(n) def
 ![example3_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/fc805e68-774e-4777-acac-3a3890c59f1f)
 
 ## Stem Plot of Discrete Signal
-Write MATLAB code to generate a stem plot for the discrete signal
+This MATLAB code generates a stem plot for the given discrete signal [-5,15]. After all values ​​of the given function are set to zero, the calculation is made according to the following segmented function. Finally, graph is drawn with the stem command.
 ![Adsız](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/efedbd86-9eae-4044-8f82-13b622f4c2d6)
 ### Graph of Example 4
 ![example4_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/b1e0fe83-d90d-475b-a1ed-d020cf372929)
