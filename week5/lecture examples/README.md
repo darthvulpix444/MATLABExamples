@@ -9,7 +9,7 @@ This MATLAB code has two discrete signals x = [0, 2, 3, 4, 0, 0, 0, 0] and y = [
 ![example2_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/ec6dc578-6d77-4074-9e96-ed36b56bb7d1)
 
 ## Discrete-Time Unit Step Function
-
+This MATLAB code generates and plots a discrete-time unit step function x(n) defined over the range −20≤n≤20. The function should be 1 for n≥0 and 0 otherwise. Also code has for loop and conditionals for this implementation.
 ### Graph of Example 3
 ![example3_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/fc805e68-774e-4777-acac-3a3890c59f1f)
 
