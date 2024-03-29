@@ -20,4 +20,6 @@ Write MATLAB code to generate a stem plot for the discrete signal
 ![example4_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/b1e0fe83-d90d-475b-a1ed-d020cf372929)
 
 ## Generating Data with a 1000 Hz Sample Frequency
+"This MATLAB code generates data with a sample frequency of 1000 Hz, one needs to create a time vector in MATLAB. For this purpose, one can use the expression (0:0.001:1)'. This expression creates a 1001-element column vector representing time ranging from 0 to 1 second in steps of 1 millisecond (ms). Here, (0:0.001:1) represents the time from 0 to 1 second. Finally combines signal function which is "mag*cos(2πft)"
+### Graph of Example 5
 ![example5_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/c07ae102-5f93-4481-b9ee-4fef24bfe178)
