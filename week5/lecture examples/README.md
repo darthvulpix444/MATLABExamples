@@ -2,12 +2,10 @@
 ## Discrete Unit Sample Function
 This MATLAB code generates a discrete unit sample function with using the stem plot. Range of values starts from -10 to 10 for the independent variable. Stem plot will display filled markers.
 ### Graph of Example 1
+![example1_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/a5c6fc39-4101-44b1-a0b8-22ccbc93a00e)
+## Element-Wise Multiplying
 This MATLAB code has two discrete signals x = [0, 2, 3, 4, 0, 0, 0, 0] and y = [0, 0, 3, 0, 0, 1, 1, 0]. Then calculates resulting signals when multiplying them element-wise and when adding them together. Finally code will plot these resulting signals against the discrete time variable n = [0, 1, 2, 3, 4, 5, 6, 7].
 ### Graph of Example 2
-![example1_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/a5c6fc39-4101-44b1-a0b8-22ccbc93a00e)
-
-## Element-Wise Multiplying
-
 ![example2_graph](https://github.com/darthvulpix444/MATLABExamples/assets/130919543/ec6dc578-6d77-4074-9e96-ed36b56bb7d1)
 
 ## Discrete-Time Unit Step Function
