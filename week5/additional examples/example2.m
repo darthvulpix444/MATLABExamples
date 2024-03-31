@@ -33,9 +33,11 @@ y4 = square(-t);
 
 % Plot original and modified signals
 figure;
+
 subplot(2, 3, 1);
 plot(t, x1);
 title('Original Sinusoidal Signal');
+
 subplot(2, 3, 2);
 plot(t, x2);
 title('Original Rectangular Pulse Signal');
