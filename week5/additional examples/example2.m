@@ -9,8 +9,8 @@ x2 = rectpuls(t, 2);
 x3 = tripuls(t, 2);
 % Original triangular signal
 x4 = square(t);
-% Original square wave signal
 
+% Original square wave signal
 % Amplitude scaling
 amp_factor = 2;
 
