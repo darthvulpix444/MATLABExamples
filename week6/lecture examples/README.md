@@ -1,4 +1,4 @@
-# Week 6 Lab Homeworks
+# Week 6 Lecture Examples
 
 ## Step Function Plotting
 This commit adds MATLAB code to generate and plot a step function. The time vector is defined from -30 to 30 with a step size of 0.001. The step function has an amplitude of 2 for time values greater than or equal to zero, indicating the start of the step. The resulting plot displays the step function with a blue line.
