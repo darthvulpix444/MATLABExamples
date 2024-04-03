@@ -15,3 +15,7 @@ In the line t = -30:0.01:30;, we define the range of time over which the step fu
 ![graph_1](https://github.com/mehmetaytacaktan/MATLABExamples/assets/130919543/1b7c193e-2752-4068-9d03-b868e2a7c92f)
 
 ## Exponential Decay Signal Plotting
+This MATLAB code generates and plots exponential decay signals. The time vector is defined from -200 to 200. Two signals are calculated with different exponential decay factors (0.80 and 0.65). The resulting plot shows both signals using stem plots, each with its corresponding decay factor and amplitude over time.
+
+### Graph of Exponential Decay Signal Plotting
+![graph_2](https://github.com/mehmetaytacaktan/MATLABExamples/assets/130919543/109ae2c1-bb43-4fb3-b9d1-2956c0a05be1)
