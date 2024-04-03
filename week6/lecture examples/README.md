@@ -8,8 +8,8 @@ This commit adds MATLAB code to generate and plot a step function. The time vect
 - **Greater than or equal to zero:** 
     time_vector >= 0 is used to define the step part of the function. By setting values to 2 for time points greater than or equal to zero, we ensure that the step function has an amplitude of 2 after t = 0.
 
-- **Value of 2:** 
-    In this code, the step function is assigned a value of 2 after the step occurs. The amplitude of the step function can be adjusted based on the specific application or requirement.
+- **Range of Time:**
+In the line t = -30:0.01:30;, we define the range of time over which the step function will be evaluated. The time range is from -30 to 30, and the step size is 0.01. This condition ensures that the step function is stabilized over a specific range of time.
 
 ### Graph of Step Function Plotting
 ![graph_1](https://github.com/mehmetaytacaktan/MATLABExamples/assets/130919543/1b7c193e-2752-4068-9d03-b868e2a7c92f)
