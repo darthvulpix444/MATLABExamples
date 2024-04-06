@@ -18,3 +18,14 @@ This MATLAB code generates a parabolic signal with a specific sampling frequency
 
 ### Graph of Parabolic Signal
 ![example1](https://github.com/mehmetaytacaktan/MATLABExamples/assets/130919543/eeb751bd-5792-493f-aad9-f8f54411644d)
+
+## Discrete-Time Sampling Function (Example 2)
+This MATLAB code generates a discrete-time sampling function and visualizes it over time.
+
+- **Sampling Frequency and Period Definition:** Fs = 1000; defines the sampling frequency (Fs) as 1000 Hz, and T = 1/Fs; calculates the corresponding sampling period (T) in seconds.
+
+- Time Vector Generation: The time vector (t) is created using the sampling period and the desired length of the signal: t = (0:L-1)*T;. This vector represents the time instants at which the signal will be sampled.
+
+- Sampling Function Generation: A sampling function (sampling_function) is initialized as an array of zeros with a length equal to the signal length (L). Sampling instants are then marked as 1 in the array using indexing: sampling_function(1:Fs:end) = 1;.
+
+- Plotting the Sampling Function: The sampling function is visualized using the stem function, which creates a discrete plot. The title and axis labels are set for the plot, and the y-axis limits are adjusted for better visibility.
