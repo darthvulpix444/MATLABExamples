@@ -29,3 +29,7 @@ This MATLAB code generates a discrete-time sampling function and visualizes it o
 - **Sampling Function Generation:** A sampling function (sampling_function) is initialized as an array of zeros with a length equal to the signal length (L). Sampling instants are then marked as 1 in the array using indexing: sampling_function(1:Fs:end) = 1;.
 
 - **Plotting the Sampling Function:** The sampling function is visualized using the stem function, which creates a discrete plot. The title and axis labels are set for the plot, and the y-axis limits are adjusted for better visibility.
+
+### Graph of Discrete-Time Sampling Function
+![example2](https://github.com/mehmetaytacaktan/MATLABExamples/assets/130919543/a45ac093-254d-4f5c-b34c-f3a0df30bfb3)
+
