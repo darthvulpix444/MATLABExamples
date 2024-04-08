@@ -8,7 +8,7 @@ vector1 = str2num(vector1_str);
 vector2 = str2num(vector2_str);
 
 % Call vector_dot_product function to perform dot product
-dot_product = vector_dot_product(vector1, vector2);
+dot_product = vector_dot(vector1, vector2);
 
 % Display the resulting dot product
 disp('Dot product:');
@@ -16,7 +16,7 @@ disp(dot_product);
 
 
 % Vector Dot Product Function
-function dot_product = vector_dot_product(vector1, vector2)
+function dot_product = vector_dot(vector1, vector2)
     % Check if vectors have the same length
     if length(vector1) ~= length(vector2)
         error('Vectors must have the same length.');
