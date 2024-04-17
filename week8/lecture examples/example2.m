@@ -9,3 +9,6 @@ plot(t, signal_sine);
 title("Sine Wave with a Frequency of 10 Hz")
 xlabel("Time");
 ylabel("Amplitude");
+
+% Define what a signal and provide and example of a signal the ncode it
+% Continous signal, discrete signal, analog signal
