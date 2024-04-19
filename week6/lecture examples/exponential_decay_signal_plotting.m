@@ -1,5 +1,5 @@
 % Define the time vector
-time_vector = -200 : 200;
+time_axis = -200 : 200;
 
 % Initialize signals
 signal_1 = zeros(size(time_axis));
