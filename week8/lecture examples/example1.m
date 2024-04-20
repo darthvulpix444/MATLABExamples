@@ -4,7 +4,7 @@ time_vector = (0:0.001:2);
 % Generate a wave signal
 frequency = 2;
 amplitude = 1;
-signal_sin = amplitude * sin(frequency*time_vector);
+signal_sin = amplitude * sin(frequency*time_vector*pi);
 
 % Generate a square wave signal
 amplitude = 1; % Amplitude
