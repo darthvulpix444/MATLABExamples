@@ -7,15 +7,12 @@ amplitude = 1;
 signal_sin = amplitude * sin(frequency*time_vector);
 
 % Generate a square wave signal
-% Square wave parameters
 amplitude = 1; % Amplitude
 frequency = 1; % Frequency (Hz)
 duration = 3; % Duration (seconds)
 
-% Generate square wave
 square_wave = amplitude * square(2*pi*frequency*time_vector); % Calculate the value of a square wave at the specified frequency: 2*pi*frequency*t
 
- 
 % Generate a noisy signal
 noise_amplitude = 0.5;
 noise = noise_amplitude*rand(size(time_vector));
